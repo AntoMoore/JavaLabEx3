@@ -1,0 +1,17 @@
+Mismatched Rejected Tx Report
+=============================
+Cust   TX  TX   TX  New
+ Num Code Qtr  Amt  Name
+=============================
+   1  set   1 9999                                      - Mismatched Customer ID
+1001  set   0 9999                                      - Invalid Quarter  
+1001  sex   1 9999                                      - Invalid Tx Code  
+2002  add   5 9999                                      - Invalid Quarter  
+2002  adx   1 9999                                      - Invalid Tx Code  
+   2  set   1 9999                                      - Mismatched Customer ID
+3003  sux   9 9999                                      - Invalid Tx Code  
+7007  reg   0    0                                      - Invalid Quarter  
+8008   st   1    0                                      - Must be 1/Suspended or 2/Ex
+8008   st   0    0                                      - Must be 1/Suspended or 2/Ex
+8008   st   3    0                                      - Must be 1/Suspended or 2/Ex
+   3  set   1 9999                                      - Mismatched Customer ID

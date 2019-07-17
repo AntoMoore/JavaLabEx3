@@ -1,0 +1,13 @@
+1001 p nOrTh A 1001 1002 1003 1004 Pippa Pig
+2002 f south a 2001 2002 2003 2004 Bugs Bunny
+3003 b EAST  A 3001 3002 3003 3004 Yogi Bear
+0001 p west  x 0001 0002 0003 0004 Aaa Aaaaaa
+0002 p north X 0001 0002 0003 0004 Bbb Bbbbbb
+4004 P wesT  a 4001 4002 4003 4004 Daffy Duck
+5005 F north A 5001 5002 5003 5004 Boo Boo
+0003 s south s 0001 0002 0003 0004 Ccc Cccccc
+0004 S east  S 0001 0002 0003 0004 Ddd Dddddd
+6006 B west  a 6001 6002 6003 6004 Donald Duck
+7007 p north A 7001 7002 7003 7004 Lucky Lou
+8008 B west  a 8001 8002 8003 8004 Micky Mouse
+-1
